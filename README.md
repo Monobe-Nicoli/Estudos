@@ -53,3 +53,35 @@ Handlebars
 Underscore
 jQuery
 Yeoman
+
+
+# Estudos
+
+.Net Core	
+Docker	
+Git
+Inteligência Artificial	
+BDD	
+TDD	
+DDD	
+Design Patterns	
+Arduíno	
+Testes com JS	
+Node JS	
+Gulp	
+Grunt	
+Bower	
+VSTS	
+Web Hooks	
+Ionic 2	
+Angular 2	
+Entity Framework	
+NHibernate	
+NoSQL	
+SOLID	
+Typescript	
+Xamarin	
+BigData	
+MEAN	
+Build 	
+Deploy automatizado	
