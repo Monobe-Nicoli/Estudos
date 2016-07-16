@@ -57,31 +57,31 @@ Yeoman <br>
 
 # Estudos
 
-.Net Core
-Docker
-Git
-Inteligência Artificial
-BDD
-TDD
-DDD
-Design Patterns
-Arduíno
-Testes com JS
-Node JS
-Gulp
-Grunt
-Bower
-VSTS
-Web Hooks
-Ionic 2
-Angular 2
-Entity Framework
-NHibernate
-NoSQL
-SOLID
-Typescript
-Xamarin
-BigData
-MEAN
-Build 	
-Deploy automatizado
+.Net Core <br>
+Docker <br>
+Git <br>
+Inteligência Artificial <br>
+BDD <br>
+TDD <br>
+DDD <br>
+Design Patterns <br>
+Arduíno <br>
+Testes com JS <br>
+Node JS <br>
+Gulp <br>
+Grunt <br>
+Bower <br>
+VSTS <br>
+Web Hooks <br>
+Ionic 2 <br>
+Angular 2 <br>
+Entity Framework <br>
+NHibernate <br>
+NoSQL <br>
+SOLID <br>
+Typescript <br>
+Xamarin <br>
+BigData <br>
+MEAN <br>
+Build 	 <br>
+Deploy automatizado <br>
