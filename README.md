@@ -71,3 +71,16 @@ Deploy automatizado <br>
 Http2 <br>
 Programação Funcional <br>
 Go <br>
+Koa & Restify<br>
+Electron <br>
+Johnny-five <br>
+Istanbul <br>
+Synaptic <br>
+RobotJS <br>
+Swagger <br>
+BluebirdJS <br>
+SailsJS <br>
+NPM <br>
+Bunyan & Winston <br>
+FaaS <br>
+JWT <br>
