@@ -6,7 +6,7 @@ Big data / BI <br>
 Azure / DevOps <br>
 ODBC / ADO / etc <br>
 Delegate <br>
-Jmeter <br>
+Jmeter (testes de carga)<br>
 Testes unitários / e2e <br>
 Design patterns (factory, singleton, observer, dependency injection, middleware) <br>
 Collections <br>
@@ -14,22 +14,19 @@ Assinatura de métodos e classes <br>
 modificadores de acesso <br>
 Erlang + Elixir <br>
 Reflection <br>
-Mobile <br>
 REST / WS <br>
 NoSQL (MongoDB) <br>
 closure / hoisting <br>
 Mocha + chai <br>
 Jasmine + karma <br>
-ES2015 generators <br>
-ES2015 iterators <br>
+ES2015 generators & iterators <br>
 ES2015 extends & super <br>
 ES2015 async & yield <br>
 Meteor <br>
 React <br>
 Service workers & offline cache <br>
 Redis <br>
-Mongodb sharding <br>
-Typescript tsconfig & typings <br>
+Typescript <br>
 Webpack <br>
 Socket IO <br>
 RxJS Observables <br>
@@ -68,7 +65,7 @@ Xamarin <br>
 MEAN <br>
 Build automatizado 	 <br>
 Deploy automatizado <br>
-Http2 <br>
+HTTP2 <br>
 Programação Funcional <br>
 Go <br>
 Koa & Restify<br>
