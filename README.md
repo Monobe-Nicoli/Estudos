@@ -69,3 +69,4 @@ MEAN <br>
 Build automatizado 	 <br>
 Deploy automatizado <br>
 Http2 <br>
+Programação Funcional
