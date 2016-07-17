@@ -1,5 +1,6 @@
 # Estudos
 
+PhantomJS & CasperJS <br>
 SOA <br>
 SOLID <br>
 Big data / BI <br>
