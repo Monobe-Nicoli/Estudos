@@ -1,5 +1,6 @@
 # Estudos
 
+PhantomJS & CasperJS <br>
 SOA <br>
 SOLID <br>
 Big data / BI <br>
@@ -81,3 +82,5 @@ NPM <br>
 Bunyan & Winston <br>
 FaaS <br>
 JWT <br>
+Slackbot <br>
+Regex <br>
